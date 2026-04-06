@@ -54,16 +54,19 @@ Bronze (Raw Data) → Silver (Cleaned Data) → Gold (Aggregated Data)
 ## 📊 Sample Output
 
 ### Bronze Layer
-![Bronze](screenshots/bronze_table.png)
+Screenshots/Bronze_table.png
 
 ### Silver Layer
-![Silver](screenshots/silver_table.png)
+Screenshots/Silver_table.png
 
 ### Gold Layer
-![Gold](screenshots/gold_table.png)
+Screenshots/gold_table.png
 
 ### Final Output
-![Output](screenshots/output.png)
+Screenshots/agg_output.png
+
+### Analytics
+Screenshots/Query.png
 
 ---
 
